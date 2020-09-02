@@ -20,7 +20,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h2> Freddy's Server Time:</h2>
+        <h2> Freddy's Server Time Commit branch:</h2>
         <div id="#addTimeHere" className="time">
           placeholder(rendered from app.tsx)
         </div>
